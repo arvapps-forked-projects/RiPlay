@@ -12,11 +12,11 @@
   <text x="20" y="24" fill="#2b3137" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600">📈 Download Growth (Actual: 97.1k)</text>
   
   <!-- Area sotto la linea -->
-  <polygon fill="url(#fillGrad)" points="30.0,120.0,120 30.0,120.0 63.8,119.7 97.5,119.3 131.2,119.0 165.0,118.9 198.8,118.7 232.5,118.4 266.2,118.1 300.0,117.9 333.8,117.5 367.5,117.3 401.2,117.1 435.0,117.0 468.8,116.8 502.5,30.2 536.2,30.1 570.0,30.0 570.0,30.0,120" />
+  <polygon fill="url(#fillGrad)" points="30.0,58.0,120 30.0,58.0 61.8,57.9 93.5,57.8 125.3,57.7 157.1,57.7 188.8,57.7 220.6,57.5 252.4,57.4 284.1,57.4 315.9,57.3 347.6,57.2 379.4,57.1 411.2,57.1 442.9,57.1 474.7,30.1 506.5,30.0 538.2,30.0 570.0,120.0 570.0,120.0,120" />
   
   <!-- Linea principale -->
-  <polyline fill="none" stroke="#0366d6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="30.0,120.0 63.8,119.7 97.5,119.3 131.2,119.0 165.0,118.9 198.8,118.7 232.5,118.4 266.2,118.1 300.0,117.9 333.8,117.5 367.5,117.3 401.2,117.1 435.0,117.0 468.8,116.8 502.5,30.2 536.2,30.1 570.0,30.0" />
+  <polyline fill="none" stroke="#0366d6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="30.0,58.0 61.8,57.9 93.5,57.8 125.3,57.7 157.1,57.7 188.8,57.7 220.6,57.5 252.4,57.4 284.1,57.4 315.9,57.3 347.6,57.2 379.4,57.1 411.2,57.1 442.9,57.1 474.7,30.1 506.5,30.0 538.2,30.0 570.0,120.0" />
   
   <!-- Punto finale luminoso -->
-  <circle cx="570.0" cy="30.0" r="4" fill="#ffffff" stroke="#0366d6" stroke-width="2.5" />
+  <circle cx="570.0" cy="120.0" r="4" fill="#ffffff" stroke="#0366d6" stroke-width="2.5" />
 </svg>
